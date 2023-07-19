@@ -1,4 +1,4 @@
-package org.example;
+package edu.plus.cs;
 
 import java.io.*;
 import java.sql.Timestamp;
